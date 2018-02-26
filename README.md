@@ -22,7 +22,8 @@ import it all ~~gently~~
 - [x] import argparse 
 
 ## Valid tags
-###### Поиск будет осуществляться по тегам
+###### Search will be performed by tags
+
 - locus
 - definition
 - accession
@@ -35,3 +36,4 @@ search_tags = ('locus', 'definition', 'accession', 'source', 'title')
 
 ## Output
 
+The program stores the result of the search in a **_csv-file_** (file_out)
