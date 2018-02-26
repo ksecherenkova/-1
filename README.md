@@ -17,5 +17,5 @@ First you need to install...
 
 import it all ~~gently~~
 
-- [x] import re - [x] import csv - [x] import argparse 
+- [x] import re - [ ] import csv - [ ] import argparse 
 
