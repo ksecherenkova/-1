@@ -16,3 +16,6 @@ First you need to install...
 3. argparse
 
 import it all ~~gently~~
+
+- [x] import re - [x] import csv - [x] import argparse 
+
