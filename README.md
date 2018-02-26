@@ -8,3 +8,11 @@
 * Keywords
 
 ## A little about libraries
+
+First you need to install...
+
+- 1.re
+- 2.csv
+- 3.argparse
+
+import it all ~~gently~~
