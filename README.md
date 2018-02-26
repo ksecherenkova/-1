@@ -9,7 +9,7 @@
 
 ## A little about libraries
 
-First you need to install...
+###### First you need to install...
 
 1. re
 2. csv
@@ -20,4 +20,18 @@ import it all ~~gently~~
 - [x] import re 
 - [x] import csv 
 - [x] import argparse 
+
+## Valid tags
+###### Поиск будет осуществляться по тегам
+- locus
+- definition
+- accession
+- source
+- title
+
+```
+search_tags = ('locus', 'definition', 'accession', 'source', 'title')
+```
+
+## Output
 
