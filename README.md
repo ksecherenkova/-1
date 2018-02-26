@@ -4,6 +4,7 @@
 
 ## Input
 
-- File with GenBank search results - Keywords
+* File with GenBank search results 
+* Keywords
 
 ## A little about libraries
