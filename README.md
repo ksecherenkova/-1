@@ -22,7 +22,7 @@ import it all ~~gently~~
 - [x] import argparse 
 
 ## Valid tags
-###### Search will be performed by tags
+###### Search will be performed by tags:
 
 - locus
 - definition
